@@ -1,4 +1,3 @@
-[Clinical-LLM-Safety-Eval-README (1).md](https://github.com/user-attachments/files/34098793/Clinical-LLM-Safety-Eval-README.1.md)
 # Grading Frontier LLMs on Clinical Safety
 
 Ten cardiac and acute-care scenarios, three frontier models, one clinician grading. I wrote the answer key for each scenario before reading any model's output, scored each response on a 0 to 2 safety rubric with binary flags, then looked at where the models actually diverge. The domain is cardiology. I'm a registered cardiac sonographer (RDCS) and this is territory where I can write the ground truth myself and stand behind it.
